@@ -8,7 +8,7 @@
 
 + The second part was `Intro to Arguments`:
 + Code:
-  + hacker@hello~intro-to-arguments:~$ hello hackers
+  + hacker@hellointro-to-arguments:$ hello hackers
 Success! Here is your flag:
 pwn.college{YpG03-5ygfSrphrJ-8djFDxjQhC.dhjNyUDL0AzN0czW}
 
